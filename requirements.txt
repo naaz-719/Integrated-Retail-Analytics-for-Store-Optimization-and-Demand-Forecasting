@@ -1,0 +1,14 @@
+# Web Framework
+streamlit>=1.30.0
+
+# Data Manipulation
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Machine Learning & Model Loading
+joblib>=1.3.0
+scikit-learn>=1.2.0
+xgboost>=1.7.0
+
+# Date/Time Handling (Included in Python Standard, but good for environment context)
+python-dateutil
